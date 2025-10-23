@@ -1,2 +1,3 @@
 # GenAI-project
-Combating hate speech,fostering hope speech & resilience.
+Combating hate speech,fostering hope speech & resilience
+
